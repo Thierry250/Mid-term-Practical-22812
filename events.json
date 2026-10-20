@@ -1,0 +1,25 @@
+{
+  "upcomingEvents": [
+    {
+      "id": 1,
+      "title": "Junior Science Fair",
+      "date": "November 12th",
+      "description": "Showcasing student inventions in a fun and educational environment.",
+      "location": "Main Hall"
+    },
+    {
+      "id": 2,
+      "title": "Adult Reading Workshop",
+      "date": "November 20th",
+      "description": "Learn new techniques to improve your fluency and book analysis skills.",
+      "location": "Study Room B"
+    },
+    {
+      "id": 3,
+      "title": "Community Movie Night",
+      "date": "November 25th",
+      "description": "Free admission for all residents to watch classic films on weekends.",
+      "location": "Projector Room"
+    }
+  ]
+}
